@@ -1,0 +1,1491 @@
+{
+  "url": "http://localhost:3000/",
+  "title": "การไฟฟ้าส่วนภูมิภาค (กฟภ.)",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "document": {
+    "width": 1440,
+    "height": 4263
+  },
+  "body": {
+    "tag": "body",
+    "id": "",
+    "className": "",
+    "text": "THบริการของเรา ⌄สำหรับคู่ค้า ⌄ข่าวสาร ⌄ไฟฟ้าน่ารู้ ⌄เกี่ยวกับเรา ⌄ติดต่อเราให้ PEA ดูแลทุกความต้องการของคุณลูกค้าบ้านอยู่อาศัยลูกค้าธุรกิจ/อุตสาหกรรม/ราชการพลังงานสะอาด/ยานยนต์ไฟฟ้",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 4263
+    },
+    "style": {
+      "display": "block",
+      "position": "static",
+      "fontFamily": "AktivThai, Tahoma, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "color": "rgb(26, 26, 26)",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "gap": "normal",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "overflow": "visible"
+    }
+  },
+  "structural": [
+    {
+      "tag": "main",
+      "id": "",
+      "className": "",
+      "text": "THบริการของเรา ⌄สำหรับคู่ค้า ⌄ข่าวสาร ⌄ไฟฟ้าน่ารู้ ⌄เกี่ยวกับเรา ⌄ติดต่อเราให้ PEA ดูแลทุกความต้องการของคุณลูกค้าบ้านอยู่อาศัยลูกค้าธุรกิจ/อุตสาหกรรม/ราชการพลังงานสะอาด/ยานยนต์ไฟฟ้",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 4263
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "className": "site-header",
+      "text": "THบริการของเรา ⌄สำหรับคู่ค้า ⌄ข่าวสาร ⌄ไฟฟ้าน่ารู้ ⌄เกี่ยวกับเรา ⌄ติดต่อเรา",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 133
+      },
+      "style": {
+        "display": "block",
+        "position": "relative",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "className": "primary-nav",
+      "text": "บริการของเรา ⌄สำหรับคู่ค้า ⌄ข่าวสาร ⌄ไฟฟ้าน่ารู้ ⌄เกี่ยวกับเรา ⌄ติดต่อเรา",
+      "rect": {
+        "x": 72,
+        "y": 86,
+        "width": 1296,
+        "height": 47
+      },
+      "style": {
+        "display": "flex",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "600",
+        "lineHeight": "25.5px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "50px",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "top",
+      "className": "hero",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgb(239, 232, 243) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "hidden"
+      }
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "className": "hero-dots",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 418,
+        "width": 1440,
+        "height": 68
+      },
+      "style": {
+        "display": "flex",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "10px",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "services",
+      "className": "services-section",
+      "text": "ให้ PEA ดูแลทุกความต้องการของคุณลูกค้าบ้านอยู่อาศัยลูกค้าธุรกิจ/อุตสาหกรรม/ราชการพลังงานสะอาด/ยานยนต์ไฟฟ้าตรวจสอบ/บำรุงรักษาระบบไฟฟ้าบริการอื่น ๆขอใช้ไฟฟ้าใหม่เริ่มต้นใช้ไฟฟ้ากับเร",
+      "rect": {
+        "x": 0,
+        "y": 486,
+        "width": 1440,
+        "height": 669
+      },
+      "style": {
+        "display": "block",
+        "position": "relative",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "17px 0px 72px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "hidden"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "news",
+      "className": "news-section page-section",
+      "text": "ข่าวประชาสัมพันธ์Infographicอัปเดตข่าวสารดูทั้งหมด ›ข่าวสารองค์กร❌ เช็กแล้ว แชร์เลย20 ตุลาคม 2569ข่าวสารองค์กรPEA เตือนภัยมิจฉาชีพแอบอ้างเป็นพนักงาน โทรเรียกเก็บค่าไฟฟ้าย้อนหลัง20 ",
+      "rect": {
+        "x": 0,
+        "y": 1155,
+        "width": 1440,
+        "height": 709
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "54px 0px 72px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "",
+      "className": "outage-section page-section",
+      "text": "ประกาศดับไฟฟ้า21 ต.ค. 2569เชียงใหม่บ้านใหม่หนองบัว หมู่ 10 ตำบลหนองบัว อำเภอไชยปราการ จังหวัดเชียงใหม่ดูรายละเอียดสระบุรีบริเวณตัดไลน์ปากท่อ หมู่ 1, 2, 3 ตำบลนพรัตน์ และหมู่ 9 ตำบล",
+      "rect": {
+        "x": 0,
+        "y": 1864,
+        "width": 1440,
+        "height": 341
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "35px 0px 62px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "knowledge",
+      "className": "knowledge-section page-section",
+      "text": "เซฟไทย by PEAดูทั้งหมด ›ประหยัดติดตั้งโซลาร์เซลล์ลดหย่อนภาษี 2569 ทางเลือกประหยัดไฟ เซฟภาษี7 ตุลาคม 2569เกร็ดน่ารู้ค่า IP คืออะไร? รู้จักมาตรฐานเครื่องใช้ไฟฟ้าปลอดภัยจากน้ำและฝุ่น6",
+      "rect": {
+        "x": 0,
+        "y": 2205,
+        "width": 1440,
+        "height": 589
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px 0px 72px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "",
+      "className": "privilege-section page-section",
+      "text": "รับส่วนลดค่าบริการเสริมจาก PEAพร้อมสิทธิประโยชน์ที่คัดสรรมาเพื่อองค์กรและธุรกิจของคุณดูรายละเอียด ›ลูกค้านิติบุคคลสะสมคะแนน แลกรับคืนค่าไฟฟ้ากับวัตต์-ดี พอยท์ ได้ทุกเดือนดูรายละเอี",
+      "rect": {
+        "x": 0,
+        "y": 2794,
+        "width": 1440,
+        "height": 574
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "18px 0px 76px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "section",
+      "id": "",
+      "className": "procurement-section page-section",
+      "text": "ประกาศจัดซื้อจัดจ้างประกาศจำหน่ายพัสดุจ้างเหมาบุคคลภายนอกปฏิบัติเกี่ยวกับมิเตอร์ กรณีงดจ่ายไฟผู้ใช้ไฟที่ค้างชำระค่าไฟฟ้าประกวดราคาอิเล็กทรอนิกส์ (e-bidding) · วันที่ขายแบบ 18–25 ตุ",
+      "rect": {
+        "x": 0,
+        "y": 3368,
+        "width": 1440,
+        "height": 469
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "8px 0px 72px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "className": "quick-links",
+      "text": "บริการออนไลน์สอบถามประวัติการใช้ไฟฟ้าช่องทางชำระค่าไฟฟ้าดาวน์โหลดแบบฟอร์มปฏิทิน Off-Peak",
+      "rect": {
+        "x": 0,
+        "y": 3836,
+        "width": 1440,
+        "height": 58
+      },
+      "style": {
+        "display": "grid",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(190, 0, 136) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "footer",
+      "id": "about",
+      "className": "footer",
+      "text": "บริการของเราลูกค้าบ้านอยู่อาศัยลูกค้าธุรกิจ/อุตสาหกรรม/ราชการพลังงานสะอาด/ยานยนต์ไฟฟ้าตรวจสอบ/บำรุงรักษาระบบไฟฟ้าบริการอื่น ๆเกี่ยวกับองค์กรธุรกิจและบริการของ PEAการกำกับดูแลองค์กร",
+      "rect": {
+        "x": 0,
+        "y": 3894,
+        "width": 1440,
+        "height": 369
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "aside",
+      "id": "",
+      "className": "cookie-banner",
+      "text": "×เว็บไซต์นี้ใช้คุกกี้เราใช้คุกกี้เพื่อเพิ่มประสิทธิภาพ และประสบการณ์ที่ดีในการใช้งานเว็บไซต์ รวมถึงเพื่อวิเคราะห์การเข้าใช้งานเว็บไซต์และทำความเข้าใจว่าผู้ใช้งานมาจากที่ใด คุณสามาร",
+      "rect": {
+        "x": 320,
+        "y": 4092,
+        "width": 800,
+        "height": 161
+      },
+      "style": {
+        "display": "block",
+        "position": "fixed",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "20px 26px 17px",
+        "margin": "0px",
+        "borderRadius": "10px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "className": "live-chat",
+      "text": "",
+      "rect": {
+        "x": 1309,
+        "y": 4163,
+        "width": 118,
+        "height": 82
+      },
+      "style": {
+        "display": "block",
+        "position": "fixed",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "id": "",
+      "className": "",
+      "text": "ให้ PEA ดูแลทุกความต้องการของคุณ",
+      "rect": {
+        "x": 72,
+        "y": 503,
+        "width": 1296,
+        "height": 53
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": "600",
+        "lineHeight": "52.5px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ขอใช้ไฟฟ้าใหม่",
+      "rect": {
+        "x": 93,
+        "y": 914,
+        "width": 260,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "26px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 7px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ชำระค่าไฟฟ้า",
+      "rect": {
+        "x": 425,
+        "y": 914,
+        "width": 260,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "26px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 7px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "สอบถามประวัติการใช้ไฟฟ้า",
+      "rect": {
+        "x": 756,
+        "y": 914,
+        "width": 260,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "26px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 7px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ขอผ่อนชำระค่าไฟฟ้า",
+      "rect": {
+        "x": 1088,
+        "y": 914,
+        "width": 260,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "26px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 7px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "className": "",
+      "text": "อัปเดตข่าวสาร",
+      "rect": {
+        "x": 72,
+        "y": 1283,
+        "width": 213,
+        "height": 41
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "34px",
+        "fontWeight": "600",
+        "lineHeight": "40.8px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "❌ เช็กแล้ว แชร์เลย",
+      "rect": {
+        "x": 72,
+        "y": 1653,
+        "width": 411,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "PEA เตือนภัยมิจฉาชีพแอบอ้างเป็นพนักงาน โทรเรียกเก็บค่าไฟฟ้าย้อนหลัง",
+      "rect": {
+        "x": 514,
+        "y": 1653,
+        "width": 411,
+        "height": 49
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "⚠️ ระวัง! มิจฉาชีพแอบอ้างเป็นพนักงาน PEA",
+      "rect": {
+        "x": 957,
+        "y": 1653,
+        "width": 411,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "เชียงใหม่",
+      "rect": {
+        "x": 99,
+        "y": 1990,
+        "width": 388,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "25.5px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 6px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "สระบุรี",
+      "rect": {
+        "x": 538,
+        "y": 1990,
+        "width": 363,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "25.5px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 6px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "นครนายก",
+      "rect": {
+        "x": 952,
+        "y": 1990,
+        "width": 364,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "25.5px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 6px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "className": "",
+      "text": "เซฟไทย by PEA",
+      "rect": {
+        "x": 72,
+        "y": 2205,
+        "width": 236,
+        "height": 41
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "34px",
+        "fontWeight": "600",
+        "lineHeight": "40.8px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ติดตั้งโซลาร์เซลล์ลดหย่อนภาษี 2569 ทางเลือกประหยัดไฟ เซฟภาษี",
+      "rect": {
+        "x": 72,
+        "y": 2582,
+        "width": 411,
+        "height": 49
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ค่า IP คืออะไร? รู้จักมาตรฐานเครื่องใช้ไฟฟ้าปลอดภัยจากน้ำและฝุ่น",
+      "rect": {
+        "x": 514,
+        "y": 2582,
+        "width": 411,
+        "height": 49
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "คู่มือเตรียมความพร้อมติดตั้ง EV Charger ที่บ้าน อัปเดตครบทุกขั้นตอน",
+      "rect": {
+        "x": 957,
+        "y": 2582,
+        "width": 411,
+        "height": 49
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "24.3px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "5px 0px 16px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "จ้างเหมาบุคคลภายนอกปฏิบัติเกี่ยวกับมิเตอร์ กรณีงดจ่ายไฟผู้ใช้ไฟที่ค้างชำระค่าไฟฟ้า",
+      "rect": {
+        "x": 97,
+        "y": 3450,
+        "width": 804,
+        "height": 21
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "21px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 5px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ประกวดราคาซื้อสายไฟ CABLE, AL, 750 V, 95 SQ.MM. สำหรับใช้งานในพื้นที่",
+      "rect": {
+        "x": 97,
+        "y": 3525,
+        "width": 804,
+        "height": 21
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "21px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 5px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "จ้างเหมาปฏิบัติงานวางหนังสือแจ้งเตือนก่อนการงดจ่ายไฟฟ้า",
+      "rect": {
+        "x": 97,
+        "y": 3600,
+        "width": 804,
+        "height": 21
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "21px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 5px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "การรับขึ้นทะเบียนผู้ประกอบการงานติดตั้ง สำหรับการดำเนินธุรกิจ PEA SOLAR",
+      "rect": {
+        "x": 973,
+        "y": 3658,
+        "width": 374,
+        "height": 72
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "23.2px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "18px 20px 8px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "บริการของเรา",
+      "rect": {
+        "x": 72,
+        "y": 3926,
+        "width": 204,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "เกี่ยวกับองค์กร",
+      "rect": {
+        "x": 312,
+        "y": 3926,
+        "width": 204,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "ข่าวสารประกาศ",
+      "rect": {
+        "x": 552,
+        "y": 3926,
+        "width": 204,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "บริการช่วยเหลือ",
+      "rect": {
+        "x": 793,
+        "y": 3926,
+        "width": 204,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "การไฟฟ้าส่วนภูมิภาค",
+      "rect": {
+        "x": 1057,
+        "y": 4014,
+        "width": 311,
+        "height": 24
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "เว็บไซต์นี้ใช้คุกกี้",
+      "rect": {
+        "x": 346,
+        "y": 4112,
+        "width": 748,
+        "height": 26
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "AktivThai, Tahoma, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "25.5px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    }
+  ],
+  "images": [
+    {
+      "alt": "PEA 66 Years of Trust",
+      "src": "http://localhost:3000/sites/pea/images/pea-66-logo.png",
+      "currentSrc": "http://localhost:3000/sites/pea/images/pea-66-logo.png",
+      "naturalWidth": 250,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 72,
+        "y": 1,
+        "width": 155,
+        "height": 84
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "รับคำขอขายไฟฟ้า โครงการผลิตไฟฟ้าจากพลังงานแสงอาทิตย์",
+      "src": "http://localhost:3000/sites/pea/images/hero-solar-desktop.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/hero-solar-desktop.webp",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 0,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอใช้ไฟฟ้าใหม่",
+      "src": "http://localhost:3000/sites/pea/images/service-r1.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/service-r1.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 73,
+        "y": 673,
+        "width": 300,
+        "height": 225
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ชำระค่าไฟฟ้า",
+      "src": "http://localhost:3000/sites/pea/images/service-r2.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/service-r2.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 405,
+        "y": 673,
+        "width": 300,
+        "height": 225
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "สอบถามประวัติการใช้ไฟฟ้า",
+      "src": "http://localhost:3000/sites/pea/images/service-r3.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/service-r3.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 736,
+        "y": 673,
+        "width": 300,
+        "height": 225
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอผ่อนชำระค่าไฟฟ้า",
+      "src": "http://localhost:3000/sites/pea/images/service-r4.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/service-r4.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 452,
+      "rect": {
+        "x": 1068,
+        "y": 673,
+        "width": 300,
+        "height": 225
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "❌ เช็กแล้ว แชร์เลย",
+      "src": "http://localhost:3000/sites/pea/images/news-fake.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/news-fake.webp",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 72,
+        "y": 1350,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA เตือนภัยมิจฉาชีพแอบอ้างเป็นพนักงาน โทรเรียกเก็บค่าไฟฟ้าย้อนหลัง",
+      "src": "http://localhost:3000/sites/pea/images/news-scam-call.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/news-scam-call.webp",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 514,
+        "y": 1350,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "⚠️ ระวัง! มิจฉาชีพแอบอ้างเป็นพนักงาน PEA",
+      "src": "http://localhost:3000/sites/pea/images/news-warning.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/news-warning.webp",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 957,
+        "y": 1350,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ติดตั้งโซลาร์เซลล์ลดหย่อนภาษี 2569 ทางเลือกประหยัดไฟ เซฟภาษี",
+      "src": "http://localhost:3000/sites/pea/images/savethai-solar.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/savethai-solar.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 72,
+        "y": 2279,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ค่า IP คืออะไร? รู้จักมาตรฐานเครื่องใช้ไฟฟ้าปลอดภัยจากน้ำและฝุ่น",
+      "src": "http://localhost:3000/sites/pea/images/savethai-ip.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/savethai-ip.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 514,
+        "y": 2279,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "คู่มือเตรียมความพร้อมติดตั้ง EV Charger ที่บ้าน อัปเดตครบทุกขั้นตอน",
+      "src": "http://localhost:3000/sites/pea/images/savethai-ev.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/savethai-ev.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 957,
+        "y": 2279,
+        "width": 411,
+        "height": 262
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "",
+      "src": "http://localhost:3000/sites/pea/images/privilege-bg.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/privilege-bg.webp",
+      "naturalWidth": 699,
+      "naturalHeight": 514,
+      "rect": {
+        "x": 72,
+        "y": 2812,
+        "width": 638,
+        "height": 480
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA Privilege",
+      "src": "http://localhost:3000/sites/pea/images/privilege-logo.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/privilege-logo.webp",
+      "naturalWidth": 496,
+      "naturalHeight": 152,
+      "rect": {
+        "x": 145,
+        "y": 2890,
+        "width": 491,
+        "height": 151
+      },
+      "objectFit": "contain",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "",
+      "src": "http://localhost:3000/sites/pea/images/wattd-bg.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/wattd-bg.webp",
+      "naturalWidth": 698,
+      "naturalHeight": 514,
+      "rect": {
+        "x": 730,
+        "y": 2812,
+        "width": 638,
+        "height": 480
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Watt-D Point",
+      "src": "http://localhost:3000/sites/pea/images/wattd-logo.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/wattd-logo.webp",
+      "naturalWidth": 400,
+      "naturalHeight": 162,
+      "rect": {
+        "x": 803,
+        "y": 2890,
+        "width": 491,
+        "height": 165
+      },
+      "objectFit": "contain",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประกาศผู้ประกอบการติดตั้ง PEA SOLAR",
+      "src": "http://localhost:3000/sites/pea/images/procurement-solar.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/procurement-solar.webp",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 953,
+        "y": 3377,
+        "width": 414,
+        "height": 264
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA 66 Years of Trust",
+      "src": "http://localhost:3000/sites/pea/images/pea-66-logo.png",
+      "currentSrc": "http://localhost:3000/sites/pea/images/pea-66-logo.png",
+      "naturalWidth": 250,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 1057,
+        "y": 3926,
+        "width": 140,
+        "height": 76
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Live Chat กับ 1129",
+      "src": "http://localhost:3000/sites/pea/images/live-chat.webp",
+      "currentSrc": "http://localhost:3000/sites/pea/images/live-chat.webp",
+      "naturalWidth": 300,
+      "naturalHeight": 209,
+      "rect": {
+        "x": 1309,
+        "y": 4163,
+        "width": 118,
+        "height": 82
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "AktivThai",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "AktivThai",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "AktivThai",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "AktivThai",
+      "weight": "700",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "__nextjs-Geist",
+      "weight": "400 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "__nextjs-Geist Mono",
+      "weight": "400 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "__nextjs-Geist",
+      "weight": "400 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "__nextjs-Geist Mono",
+      "weight": "400 600",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "stylesheets": [
+    "http://localhost:3000/_next/static/chunks/app_globals_css_20o3uo5wggppq.css"
+  ],
+  "errors": []
+}

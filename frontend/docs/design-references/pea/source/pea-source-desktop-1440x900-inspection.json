@@ -1,0 +1,2138 @@
+{
+  "url": "https://www.pea.co.th/",
+  "title": "การไฟฟ้าส่วนภูมิภาค (กฟภ.)",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "document": {
+    "width": 1440,
+    "height": 4361
+  },
+  "body": {
+    "tag": "body",
+    "id": "",
+    "className": "user-anonymous path-frontpage page-node-type--pea-page page-type--page",
+    "text": "Skip to main content Skip to footer content Accessibility toolsขนาดของตัวหนังสือA-100%A+การตัดกันของสีCCC กลับสู่ค่าเริ่มต้นLanguage switcher: current language th English (EN) ภาษา",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 4361
+    },
+    "style": {
+      "display": "block",
+      "position": "static",
+      "fontFamily": "aktiv-grotesk-thai, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "color": "rgb(26, 26, 26)",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "gap": "normal",
+      "padding": "0px",
+      "margin": "0px",
+      "borderRadius": "0px",
+      "overflow": "visible"
+    }
+  },
+  "structural": [
+    {
+      "tag": "header",
+      "id": "",
+      "className": "it-header-wrapper d-print-none it-header-sticky bs-is-fixed is-sticky",
+      "text": "Accessibility toolsขนาดของตัวหนังสือA-100%A+การตัดกันของสีCCC กลับสู่ค่าเริ่มต้นLanguage switcher: current language th English (EN) ภาษาไทย (TH) (Current language)ค้นหาบริการ หรือส",
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 1440,
+        "height": 67
+      },
+      "style": {
+        "display": "block",
+        "position": "fixed",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "className": "ps-lg-0 flex-grow-1",
+      "text": "บริการของเราลูกค้าบ้านอยู่อาศัยบริการไฟฟ้าครบวงจรเพื่อคุณภาพชีวิตที่ดีของทุกครัวเรือนลูกค้าธุรกิจ/อุตสาหกรรม/ราชการโซลูชันพลังงานไฟฟ้าสำหรับองค์กรตอบโจทย์ทุกความต้องการทางธุรกิจพลั",
+      "rect": {
+        "x": 200,
+        "y": 3461,
+        "width": 1106,
+        "height": 67
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px 18px 0px 0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "className": "",
+      "text": "ลูกค้าบ้านอยู่อาศัยลูกค้าธุรกิจ/อุตสาหกรรม/ราชการพลังงานสะอาด/ยานยนต์ไฟฟ้าตรวจสอบ/บำรุงรักษาระบบไฟฟ้าบริการอื่น ๆ",
+      "rect": {
+        "x": 72,
+        "y": 572,
+        "width": 1296,
+        "height": 40
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "className": "",
+      "text": "ข่าวประชาสัมพันธ์Infographic",
+      "rect": {
+        "x": 72,
+        "y": 1217,
+        "width": 1296,
+        "height": 40
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "className": "savethai-header",
+      "text": "ดูทั้งหมด เซฟไทย by PEA",
+      "rect": {
+        "x": 72,
+        "y": 2245,
+        "width": 1296,
+        "height": 64
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "className": "",
+      "text": "ประกาศจัดซื้อจัดจ้างประกาศจำหน่ายพัสดุ",
+      "rect": {
+        "x": 92,
+        "y": 3441,
+        "width": 816,
+        "height": 52
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "footer",
+      "id": "footer",
+      "className": "it-footer d-print-none",
+      "text": "Footer menu บริการของเรา บริการของเราลูกค้าบ้านอยู่อาศัย ลูกค้าธุรกิจ/อุตสาหกรรม/ราชการ พลังงานสะอาด/ยานยนต์ไฟฟ้า ตรวจสอบ/บำรุงรักษาระบบไฟฟ้า ทดสอบ/สอบเทียบอุปกรณ์ไฟฟ้า จัดหา/ให้เช",
+      "rect": {
+        "x": 0,
+        "y": 3970,
+        "width": 1440,
+        "height": 391
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "block-italiagov-footer",
+      "className": "",
+      "text": "Footer menu บริการของเรา บริการของเราลูกค้าบ้านอยู่อาศัย ลูกค้าธุรกิจ/อุตสาหกรรม/ราชการ พลังงานสะอาด/ยานยนต์ไฟฟ้า ตรวจสอบ/บำรุงรักษาระบบไฟฟ้า ทดสอบ/สอบเทียบอุปกรณ์ไฟฟ้า จัดหา/ให้เช",
+      "rect": {
+        "x": 88,
+        "y": 3994,
+        "width": 934,
+        "height": 286
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "block-smallprints",
+      "className": "",
+      "text": "Small printsUseful links sectionนโยบายเว็บไซต์ นโยบายการรักษาความมั่นคงปลอดภัย การปฏิเสธการรับผิด นโยบายการคุ้มครองข้อมูลส่วนบุคคล",
+      "rect": {
+        "x": 402,
+        "y": 4311,
+        "width": 966,
+        "height": 50
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "id": "it-main-content",
+      "className": "visually-hidden",
+      "text": "การไฟฟ้าส่วนภูมิภาค (กฟภ.)",
+      "rect": {
+        "x": -1,
+        "y": 132,
+        "width": 1,
+        "height": 1
+      },
+      "style": {
+        "display": "block",
+        "position": "absolute",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "600",
+        "lineHeight": "56px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "-1px",
+        "borderRadius": "0px",
+        "overflow": "hidden"
+      }
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "className": "",
+      "text": "ให้ PEA ดูแลทุกความต้องการของคุณ",
+      "rect": {
+        "x": 72,
+        "y": 500,
+        "width": 1296,
+        "height": 48
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": "600",
+        "lineHeight": "48px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "อัปเดตข่าวสาร",
+      "rect": {
+        "x": 72,
+        "y": 1296,
+        "width": 1296,
+        "height": 40
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "lineHeight": "40px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "className": "",
+      "text": "เซฟไทย by PEA",
+      "rect": {
+        "x": 72,
+        "y": 2253,
+        "width": 1296,
+        "height": 40
+      },
+      "style": {
+        "display": "block",
+        "position": "static",
+        "fontFamily": "aktiv-grotesk-thai, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "lineHeight": "40px",
+        "color": "rgb(26, 26, 26)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "gap": "normal",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "borderRadius": "0px",
+        "overflow": "visible"
+      }
+    }
+  ],
+  "images": [
+    {
+      "alt": "Home",
+      "src": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "naturalWidth": 250,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Home",
+      "src": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "naturalWidth": 300,
+      "naturalHeight": 107,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Home",
+      "src": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "naturalWidth": 250,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 72,
+        "y": 3464,
+        "width": 112,
+        "height": 60
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ลูกค้าบ้านอยู่อาศัย",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_home.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ลูกค้าธุรกิจ/อุตสาหกรรม/ราชการ",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_business.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "พลังงานสะอาด/ยานยนต์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_energy.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ตรวจสอบ/บำรุงรักษาระบบไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_maintenance.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ทดสอบ/สอบเทียบอุปกรณ์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_testing.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "จัดหา/ให้เช่าอุปกรณ์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_rent.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ก่อสร้างและติดตั้งระบบไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_construction.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการอื่น ๆ",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_other.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ช่องทางการชำระค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_payment.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดาวน์โหลดแบบฟอร์มต่าง ๆ",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/service_form.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Sabuy Service",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/menu-sabuy.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประกาศจัดซื้อจัดจ้าง",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/menu-procurement.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประกาศรับสมัครงาน",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/menu-job.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "รอบรู้เรื่องไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_knowledge.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "เคล็ดลับประหยัดไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_tips.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "การใช้ไฟฟ้าอย่างปลอดภัย",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_safety.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ครบเครื่องเรื่องยานยนต์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_ev.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ไฟฟ้าอัจฉริยะ",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_smart.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "พลังงานสะอาด",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_green.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "สถิติการใช้พลังงานไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_sales.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "การศึกษาลักษณะการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/menu-icons/electricity_loadprofile.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "เซฟไทย by PEA",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/menu-safethai.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "การพัฒนาความยั่งยืนของ PEA",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/menu-sustainability.jpg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Home",
+      "src": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "naturalWidth": 300,
+      "naturalHeight": 107,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Banner PEA e-Service www small",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-02/Banner-e-Service%20www%20small.jpg.webp?itok=VA9weeo-",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA e-Service www",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-02/Banner-e-Service%20www.jpg.webp?itok=MdcORbqm",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-02/Banner-e-Service%20www.jpg.webp?itok=MdcORbqm",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": -2880,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "แบนเนอร์ smart plus",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2024-12/banner_smart_plus_s_0.jpg.webp?itok=1sjSafFE",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "แบนเนอร์",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2024-06/banner1.png.webp?itok=dCgFOWh5",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2024-06/banner1.png.webp?itok=dCgFOWh5",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": -1440,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Solar ประชาชน Mobile",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-06/Solar-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-mobile.png.webp?itok=RKfRYIif",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-06/Solar-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-mobile.png.webp?itok=RKfRYIif",
+      "naturalWidth": 767,
+      "naturalHeight": 717,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Solar ประชาชน",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-06/Solar%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99.png.webp?itok=SdOnYoUc",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-06/Solar%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99.png.webp?itok=SdOnYoUc",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 0,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA Power Map mobile",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_Mobile.png.webp?itok=u6lunkd_",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA Power Map www",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_1.png.webp?itok=vvSCXQtn",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_1.png.webp?itok=vvSCXQtn",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 1440,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Banner PEA e-Service www small",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-02/Banner-e-Service%20www%20small.jpg.webp?itok=VA9weeo-",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA e-Service www",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-02/Banner-e-Service%20www.jpg.webp?itok=MdcORbqm",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-02/Banner-e-Service%20www.jpg.webp?itok=MdcORbqm",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 2880,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "แบนเนอร์ smart plus",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2024-12/banner_smart_plus_s_0.jpg.webp?itok=1sjSafFE",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "แบนเนอร์",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2024-06/banner1.png.webp?itok=dCgFOWh5",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2024-06/banner1.png.webp?itok=dCgFOWh5",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 4320,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Solar ประชาชน Mobile",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-06/Solar-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-mobile.png.webp?itok=RKfRYIif",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-06/Solar-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99-mobile.png.webp?itok=RKfRYIif",
+      "naturalWidth": 767,
+      "naturalHeight": 717,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Solar ประชาชน",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-06/Solar%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99.png.webp?itok=SdOnYoUc",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-06/Solar%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99.png.webp?itok=SdOnYoUc",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 5760,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA Power Map mobile",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner_mobile/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_Mobile.png.webp?itok=u6lunkd_",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA Power Map www",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_1.png.webp?itok=vvSCXQtn",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_banner/public/banner/2026-04/Banner%20%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%20Web_1.png.webp?itok=vvSCXQtn",
+      "naturalWidth": 2560,
+      "naturalHeight": 507,
+      "rect": {
+        "x": 7200,
+        "y": 133,
+        "width": 1440,
+        "height": 285
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r1.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r1.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 80,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ช่องทางชำระค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r2.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r2.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 432,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r3.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r3.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 784,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอผ่อนชำระค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r4.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r4.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 452,
+      "rect": {
+        "x": 1136,
+        "y": 668,
+        "width": 320,
+        "height": 241
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r5.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r5.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 1488,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA e-Bill",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r6.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r6.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 1840,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประมาณการค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r7.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r7.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 2192,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการทั้งหมด",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r8.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/webp/service-r8.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 450,
+      "rect": {
+        "x": 2544,
+        "y": 668,
+        "width": 320,
+        "height": 240
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b1.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ช่องทางชำระค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b2.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b3.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอผ่อนชำระค่าไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b4.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ดูประวัติการใช้ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b5.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA e-Bill",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b6.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA e-Bill",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b7.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการทั้งหมด",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/service-b8.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA SOLAR",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/pea-solar.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA VOLTA",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/webp/pea-volta.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการตรวจสอบและบำรุงรักษาสวิตช์เกียร์",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-1.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการตรวจสอบและบำรุงรักษาเคเบิล",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-2.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการตรวจสอบและบำรุงรักษารีเลย์",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-3.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอตรวจสอบระบบไฟฟ้าและออกใบรับรอง",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-4.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอตรวจหาจุดร้อน / จุดสัมผัสทางไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-5.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอตรวจสอบและบำรุงรักษาระบบไฟฟ้าแบบครบวงจร (Package)",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-6.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอแก้กระแสไฟฟ้าขัดข้อง",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-ma-7.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการทดสอบและสอบเทียบอุปกรณ์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-testing.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการจัดหาและให้เช่าอุปกรณ์ไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-renting.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการก่อสร้างและติดตั้งระบบไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-construction.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการฝึกอบรม",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-training.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "บริการขึ้นทะเบียนและซื้อขายใบรับรอง การผลิตพลังงานหมุนเวียน (REC)",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-rec.svg",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขอแก้กระแสไฟฟ้าขัดข้อง",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/ic-other.webp",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "7",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/S__8404999.jpg.webp?h=7652de0f&itok=CK3AwHCo",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/S__8404999.jpg.webp?h=7652de0f&itok=CK3AwHCo",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 74,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "mit",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/S__8380449.jpg.webp?h=56a14a0e&itok=u-qexcpD",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/S__8380449.jpg.webp?h=56a14a0e&itok=u-qexcpD",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 515,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "⚠️ ระวัง! มิจฉาชีพแอบอ้างเป็นพนักงาน PEA",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/IMG_2897.jpeg.webp?h=56a14a0e&itok=IMqszT3A",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/IMG_2897.jpeg.webp?h=56a14a0e&itok=IMqszT3A",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 957,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "7",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/EP.1%20PEA%202570-2580%20%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B9%84%E0%B8%AB%E0%B8%99%20%281%29.png.webp?h=918f0109&itok=woqRo9vX",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/EP.1%20PEA%202570-2580%20%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B9%84%E0%B8%AB%E0%B8%99%20%281%29.png.webp?h=918f0109&itok=woqRo9vX",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 1398,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ผลการแข่งขัน PEA Open 2026 Darts Championship",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_3931_0.jpeg.webp?h=fd900c9f&itok=0ZsYiyWv",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_3931_0.jpeg.webp?h=fd900c9f&itok=0ZsYiyWv",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 1839,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA ร่วมงาน “วันหม่อมงามจิตต์ บุรฉัตร บุคคลสำคัญของโลก” งานสร้างเสริมคนดีมีคุณธรรม ครั้งที่ 38",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_9547.jpeg.webp?h=fd900c9f&itok=Ilce-e1x",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_9547.jpeg.webp?h=fd900c9f&itok=Ilce-e1x",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 2281,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "🪙M-STAMP ช่วยจ่ายได้แลกรับส่วนลดค่าไฟฟ้า PEA🟣",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_2886.jpeg.webp?h=56a14a0e&itok=5XT5C1jp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_2886.jpeg.webp?h=56a14a0e&itok=5XT5C1jp",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 2722,
+        "y": 1360,
+        "width": 409,
+        "height": 260
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA เปิดการฝึกอบรมหลักสูตร High Voltage Bootcamp แคมป์มีไฟ ของคนมีฝัน Season 3 ปลุกพลังคนรุ่นใหม่สู่อาชีพช่างไฟฟ้าแรงสูง",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/news/2026-10/IMG_2875.jpeg.webp?h=fd900c9f&itok=38VgfSLT",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 3163,
+        "y": 1360,
+        "width": 409,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "น้ำท่วมบ้าน",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/773678949_1563796665438494_1118243595848316479_n.jpg.webp?itok=-YEx0VIm",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "เช็กจุดเสี่ยง",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/771940040_27912869068375385_2692928381937870429_n.jpg.webp?itok=59XLDbjb",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "กฎใช้ไฟปลอดภัย",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/768372644_1058986783313528_3500099533876783924_n.jpg.webp?itok=j2ZHfSbZ",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "วางระบบไฟฟ้า",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/770719933_1396787249329269_3194902217312564190_n.jpg.webp?itok=Wu6kbAyd",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ขยะเปลี่ยนเป็นพลังงาน",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/766027762_2205694623620396_124970761607264456_n.jpg.webp?itok=F-qyyqb1",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Smart Meter",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_infographic_card/public/news/2026-08/760378749_2948002132199900_2651538278438862293_n.jpg.webp?itok=V5E4AJCl",
+      "currentSrc": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ติดตั้งโซลาร์เซลล์ลดหย่อนภาษี 2569 ทางเลือกประหยัดไฟ เซฟภาษี",
+      "src": "https://www.pea.co.th/apps/savethai/solar-tax-deduction-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/solar-tax-deduction-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 74,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ค่า IP คืออะไร? รู้จักมาตรฐานเครื่องใช้ไฟฟ้าปลอดภัยจากน้ำและฝุ่น",
+      "src": "https://www.pea.co.th/apps/savethai/ip-ratings-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/ip-ratings-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 515,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "คู่มือเตรียมความพร้อมติดตั้ง EV Charger ที่บ้าน อัปเดตครบทุกขั้นตอน",
+      "src": "https://www.pea.co.th/apps/savethai/home-ev-charger-installation-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/home-ev-charger-installation-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 957,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "หยุดพฤติกรรม หมาแมวกัดสายไฟ! เซฟชีวิตสัตว์เลี้ยง เซฟค่าซ่อม",
+      "src": "https://www.pea.co.th/apps/savethai/pet-chewing-on-cords-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/pet-chewing-on-cords-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 1398,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "วิธีใช้พาวเวอร์แบงก์อย่างถูกต้อง ปลอดภัย ถนอมแบตได้ยาวนาน",
+      "src": "https://www.pea.co.th/apps/savethai/how-to-use-powerbank-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/how-to-use-powerbank-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 1839,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ฟิวส์ขาดบ่อยชวนหงุดหงิด? เช็กสาเหตุและวิธีรับมืออย่างไรให้ปลอดภัย",
+      "src": "https://www.pea.co.th/apps/savethai/blown-fuse-scaled.webp",
+      "currentSrc": "https://www.pea.co.th/apps/savethai/blown-fuse-scaled.webp",
+      "naturalWidth": 600,
+      "naturalHeight": 338,
+      "rect": {
+        "x": 2281,
+        "y": 2317,
+        "width": 409,
+        "height": 231
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "watt-d background",
+      "src": "https://www.pea.co.th/sites/default/files/images/privilege/Privilege-bg1.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/privilege/Privilege-bg1.webp",
+      "naturalWidth": 699,
+      "naturalHeight": 514,
+      "rect": {
+        "x": 72,
+        "y": 2851,
+        "width": 640,
+        "height": 480
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "watt-d point",
+      "src": "https://www.pea.co.th/sites/default/files/images/privilege/Privilege-Logo.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/privilege/Privilege-Logo.webp",
+      "naturalWidth": 496,
+      "naturalHeight": 152,
+      "rect": {
+        "x": 132,
+        "y": 2942,
+        "width": 496,
+        "height": 158
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "watt-d background",
+      "src": "https://www.pea.co.th/sites/default/files/images/privilege/WattD-Point-bg1.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/privilege/WattD-Point-bg1.webp",
+      "naturalWidth": 698,
+      "naturalHeight": 514,
+      "rect": {
+        "x": 728,
+        "y": 2851,
+        "width": 640,
+        "height": 480
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "watt-d point",
+      "src": "https://www.pea.co.th/sites/default/files/images/privilege/WattD-Point-Logo.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/privilege/WattD-Point-Logo.webp",
+      "naturalWidth": 400,
+      "naturalHeight": 162,
+      "rect": {
+        "x": 836,
+        "y": 2941,
+        "width": 400,
+        "height": 165
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA1Save4Baht",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/pea1save4baht_0.jpg.webp?h=e4be9cf5&itok=KDCW-WJk",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/pea1save4baht_0.jpg.webp?h=e4be9cf5&itok=KDCW-WJk",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": -292,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประกาศ บัญชีแสดงรายชื่อผู้ประกอบการงานติดตั้งและบำรุงรักษาระบบ Solar ครั้งที่ 1",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/Banner_PEA_Solar_Installers_Phase1_Announcement.png.webp?h=41f13747&itok=my3_1six",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/Banner_PEA_Solar_Installers_Phase1_Announcement.png.webp?h=41f13747&itok=my3_1six",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 124,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ข้อกำหนดเกี่ยวกับระบบโครงข่ายไฟฟ้า (Grid Code)",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/grid-code-2026.jpg.webp?h=aa155c52&itok=aBNP28QL",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/grid-code-2026.jpg.webp?h=aa155c52&itok=aBNP28QL",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 540,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "การรับขึ้นทะเบียนผู้ประกอบการงานติดตั้ง-สำหรับการดำเนินธุรกิจ-PEA-SOLAR-",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/solar.png.webp?h=092f5154&itok=6Ch4Mnv2",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/solar.png.webp?h=092f5154&itok=6Ch4Mnv2",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 956,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "แบบสอบถาม69 ใหม่",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/99547.jpg.webp?h=745165de&itok=X8zHHjY-",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/99547.jpg.webp?h=745165de&itok=X8zHHjY-",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 1372,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ช่องทางร้องเรียน ป.ป.ช.",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/complaint_nacc.jpg.webp?h=d19592ec&itok=kbDnb-16",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/complaint_nacc.jpg.webp?h=d19592ec&itok=kbDnb-16",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 1788,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ช่องทางร้องเรียน ป.ป.ท.",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/complaint_pacc.jpg.webp?h=d19592ec&itok=vRFlj2_w",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/complaint_pacc.jpg.webp?h=d19592ec&itok=vRFlj2_w",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 2204,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA1Save4Baht",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/pea1save4baht_0.jpg.webp?h=e4be9cf5&itok=KDCW-WJk",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-06/pea1save4baht_0.jpg.webp?h=e4be9cf5&itok=KDCW-WJk",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 2620,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ประกาศ บัญชีแสดงรายชื่อผู้ประกอบการงานติดตั้งและบำรุงรักษาระบบ Solar ครั้งที่ 1",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/Banner_PEA_Solar_Installers_Phase1_Announcement.png.webp?h=41f13747&itok=my3_1six",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/Banner_PEA_Solar_Installers_Phase1_Announcement.png.webp?h=41f13747&itok=my3_1six",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 3036,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "ข้อกำหนดเกี่ยวกับระบบโครงข่ายไฟฟ้า (Grid Code)",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/grid-code-2026.jpg.webp?h=aa155c52&itok=aBNP28QL",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-09/grid-code-2026.jpg.webp?h=aa155c52&itok=aBNP28QL",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 3452,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "การรับขึ้นทะเบียนผู้ประกอบการงานติดตั้ง-สำหรับการดำเนินธุรกิจ-PEA-SOLAR-",
+      "src": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/solar.png.webp?h=092f5154&itok=6Ch4Mnv2",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/styles/pea_news_card/public/banner/2026-08/solar.png.webp?h=092f5154&itok=6Ch4Mnv2",
+      "naturalWidth": 440,
+      "naturalHeight": 280,
+      "rect": {
+        "x": 3868,
+        "y": 3421,
+        "width": 408,
+        "height": 260
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "PEA",
+      "src": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/PEA-Logo.png",
+      "naturalWidth": 300,
+      "naturalHeight": 107,
+      "rect": {
+        "x": 0,
+        "y": 3461,
+        "width": 0,
+        "height": 0
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "chat กับ 1129",
+      "src": "https://www.pea.co.th/sites/default/files/images/home/watt-d-chat.webp",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/images/home/watt-d-chat.webp",
+      "naturalWidth": 300,
+      "naturalHeight": 209,
+      "rect": {
+        "x": 1304,
+        "y": 4257,
+        "width": 120,
+        "height": 84
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    },
+    {
+      "alt": "Home",
+      "src": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "currentSrc": "https://www.pea.co.th/sites/default/files/66_logo.png",
+      "naturalWidth": 250,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 1074,
+        "y": 3994,
+        "width": 140,
+        "height": 76
+      },
+      "objectFit": "fill",
+      "objectPosition": "50% 50%"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "thongterm",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "thongterm",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "thongterm",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "thongterm",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "aktiv-grotesk-thai",
+      "weight": "700",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "aktiv-grotesk-thai",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "aktiv-grotesk-thai",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "aktiv-grotesk-thai",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "bootstrap-icons",
+      "weight": "normal",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "stylesheets": [
+    "https://www.pea.co.th/sites/default/files/css/css_YmiNQenJCbQugtGMjskpsvgdXKhT0EdO9aanm963BGo.css?delta=0&language=th&theme=italiagov&include=eJxNjEEKwzAMBD9krCeFTSISFTkylmynvy80h_ayDDOwq1l4NNRFAiqgFc5ps8a0t16hGS_c6YmHDdq6h5U_MXCJKlI9LcynVKYfJn97cHleh_B0-m4utnflD0f0MZc",
+    "https://use.typekit.net/pkl5euk.css",
+    "https://www.pea.co.th/sites/default/files/css/css_-9C1eCOZSBlnnvC88L8Md0834l1aKINLTpz2w9bM9qg.css?delta=2&language=th&theme=italiagov&include=eJxNjEEKwzAMBD9krCeFTSISFTkylmynvy80h_ayDDOwq1l4NNRFAiqgFc5ps8a0t16hGS_c6YmHDdq6h5U_MXCJKlI9LcynVKYfJn97cHleh_B0-m4utnflD0f0MZc"
+  ],
+  "errors": []
+}
