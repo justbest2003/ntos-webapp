@@ -1,7 +1,7 @@
 "use client";
 /* eslint-disable @next/next/no-img-element -- exact source assets are stored locally for visual fidelity */
 
-import { Children, useCallback, useEffect, useMemo, useState, type ReactNode } from "react";
+import { Children, useCallback, useEffect, useMemo, useState, type CSSProperties, type ReactNode } from "react";
 import Autoplay from "embla-carousel-autoplay";
 import useEmblaCarousel from "embla-carousel-react";
 
@@ -36,10 +36,10 @@ const missions = [
 ];
 
 const ntosValues = [
-  { type: "บริษัท NT-OS", title: "ใส่ใจลูกค้า", detail: "เราเชื่อว่าการใส่ใจลูกค้านั้นถือเป็นภารกิจสูงสุด", tone: "blue" },
-  { type: "บริษัท NT-OS", title: "รับผิดชอบทุกการส่งมอบ", detail: "เราปฏิญญาว่าจะรับผิดชอบงานที่ส่งมอบให้มีคุณภาพและทันเวลา", tone: "orange" },
-  { type: "คนของ NT-OS", title: "เราทำได้เสมอ", detail: "คนของ NT-OS มีทัศนคติว่า ‘เราทำได้เสมอ’", tone: "blue" },
-  { type: "คนของ NT-OS", title: "มุ่งมั่นสู่ความเป็นเลิศ", detail: "คนของ NT-OS มุ่งมั่นสู่ความเป็นเลิศเสมอ", tone: "orange" },
+  { type: "บริษัท NTOS", title: "ใส่ใจลูกค้า", detail: "เราเชื่อว่าการใส่ใจลูกค้านั้นถือเป็นภารกิจสูงสุด", tone: "blue" },
+  { type: "บริษัท NTOS", title: "รับผิดชอบทุกการส่งมอบ", detail: "เราปฏิญญาว่าจะรับผิดชอบงานที่ส่งมอบให้มีคุณภาพและทันเวลา", tone: "orange" },
+  { type: "คนของ NTOS", title: "เราทำได้เสมอ", detail: "คนของ NT-OS มีทัศนคติว่า ‘เราทำได้เสมอ’", tone: "blue" },
+  { type: "คนของ NTOS", title: "มุ่งมั่นสู่ความเป็นเลิศ", detail: "คนของ NT-OS มุ่งมั่นสู่ความเป็นเลิศเสมอ", tone: "orange" },
 ];
 
 const news = [
@@ -154,14 +154,14 @@ export default function Home() {
         <div className="shell header-main">
           <button className="mobile-menu" aria-label="เปิดเมนู" aria-expanded={menuOpen} onClick={() => setMenuOpen((open) => !open)}><Icon name="menu" /></button>
           <a href="#top" className="header-logo" aria-label="NTOS"><img src={`${A}/ntos-logo.webp`} alt="NTOS" /></a>
-          <a className="header-career" href="">สมัครงานกับ NTOS <Icon name="arrow" size={17} /></a>
+          <a className="header-career" href="">ร่วมงานกับเรา NTOS <Icon name="arrow" size={17} /></a>
           {/* <div className="header-tools"><button aria-label="เครื่องมือช่วยการเข้าถึง"><Icon name="person" size={20} /></button><button aria-label="ภาษาไทย"><Icon name="globe" size={20} /> TH</button><button aria-label="ค้นหา"><Icon name="search" size={21} /></button></div> */}
         </div>
         <div className="nav-bar">
           <div className="shell">
             <nav className={menuOpen ? "primary-nav open" : "primary-nav"}>
-              <a href="#top">หน้าหลัก</a>
-              <a href="#about">เกี่ยวกับเรา</a>
+              <a href="#">หน้าหลัก</a>
+              <a href="#">เกี่ยวกับเรา</a>
               <a href="#">ตำแหน่งงาน</a>
               <a href="#">ถามตอบ</a>
               <a href="#">ติดต่อเรา</a>
@@ -172,27 +172,31 @@ export default function Home() {
 
       <section id="top" className="hero">
         <Carousel className="hero-carousel" ariaLabel="แบนเนอร์ประชาสัมพันธ์" loop autoplay showArrows={false}>
-          {heroSlides.map((slide) => <picture key={slide.desktop}><source media="(max-width: 760px)" srcSet={`${A}/${slide.mobile}`} /><img src={`${A}/${slide.desktop}`} alt={slide.alt} /></picture>)}
+          {heroSlides.map((slide, index) => <picture key={`${slide.desktop}-${index}`}>{slide.mobile && <source media="(max-width: 760px)" srcSet={`${A}/${slide.mobile}`} />}<img src={`${A}/${slide.desktop}`} alt={slide.alt} /></picture>)}
         </Carousel>
       </section>
 
       <section id="services" className="services-section">
         <div className="shell">
-          <div className="identity-heading">
-            <span>ABOUT NT-OS</span>
-            <h1>วิสัยทัศน์และพันธกิจ</h1>
-            <p>รากฐานสำคัญที่ขับเคลื่อนทุกบริการของเรา</p>
-          </div>
+          <div className="purpose-layout">
+            <article className="purpose-intro">
+              <span className="purpose-kicker">VISION &amp; MISSION</span>
+              <h1>สร้างความเป็นเลิศ<br />ให้ทุกธุรกิจ<br /><em>เติบโตไปด้วยกัน</em></h1>
+              <p>เราคือผู้ให้บริการ Outsourcing ผู้เป็นเลิศ สำหรับธุรกิจ ICT และธุรกิจที่เกี่ยวเนื่อง</p>
+              <div className="purpose-signature"><span aria-hidden="true">“</span><b>วิสัยทัศน์ของ NT-OS</b></div>
+            </article>
 
-          <article className="vision-card">
-            <div className="vision-mark" aria-hidden="true">“</div>
-            <div><span>วิสัยทัศน์</span><h2>เราคือผู้ให้บริการ Outsourcing ผู้เป็นเลิศ<br />สำหรับธุรกิจ ICT และธุรกิจที่เกี่ยวเนื่อง</h2></div>
-          </article>
-
-          <div className="mission-block">
-            <div className="mission-heading"><span>OUR MISSION</span><h2>พันธกิจ</h2></div>
-            <div className="mission-grid">
-              {missions.map((mission, index) => <article className="mission-card" key={mission}><b>{String(index + 1).padStart(2, "0")}</b><p>{mission}</p></article>)}
+            <div className="mission-orbit" aria-label="พันธกิจของ NT-OS">
+              <div className="orbit-ring" aria-hidden="true">
+                {Array.from({ length: 12 }, (_, index) => <i style={{ "--tick": index } as CSSProperties} key={index} />)}
+              </div>
+              <div className="orbit-center"><small>OUR</small><strong>MISSION</strong><span>NT-OS</span></div>
+              {missions.map((mission, index) => (
+                <article className={`orbit-item orbit-item-${index + 1}`} key={mission}>
+                  <b><span>{String(index + 1).padStart(2, "0")}</span> พันธกิจ</b>
+                  <p>{mission}</p>
+                </article>
+              ))}
             </div>
           </div>
 
@@ -206,14 +210,14 @@ export default function Home() {
       {/* <section id="news" className="news-section page-section">
         <div className="shell">
           <div className="news-tabs"><button className="active">ข่าวประชาสัมพันธ์</button><button>Infographic</button></div>
-          <SectionHeading title="อัปเดตข่าวสาร" href="https://www.pea.co.th/news" />
+          <SectionHeading title="อัปเดตข่าวสาร" href="" />
           <Carousel className="news-carousel" ariaLabel="ข่าวสาร" showDots={false} controlsClassName="round-controls">
             {news.map((item) => <article className="news-card" key={item.title}><img src={`${A}/${item.image}`} alt={item.title} /><small>ข่าวสารองค์กร</small><h3>{item.title}</h3><div className="card-date"><Icon name="calendar" size={13} />{item.date}</div></article>)}
           </Carousel>
         </div>
-      </section>
+      </section> */}
 
-      <section className="outage-section page-section">
+      {/* <section className="outage-section page-section">
         <div className="shell outage-card">
           <div className="outage-title"><b>ประกาศดับไฟฟ้า</b><span>21 ต.ค. 2569</span></div>
           <Carousel className="outage-carousel" ariaLabel="ประกาศดับไฟฟ้า" showArrows={false} controlsClassName="outage-bottom">
@@ -258,9 +262,9 @@ export default function Home() {
           <div className="footer-contact"><img src={`${A}/pea-66-logo.png`} alt="PEA 66 Years of Trust" /><h3>การไฟฟ้าส่วนภูมิภาค</h3><p>“ไฟฟ้าอัจฉริยะ เพื่อคุณภาพชีวิตที่ยั่งยืน”</p><b>ติดตามข่าวสารของเรา</b><div className="socials"><span>f</span><span>◎</span><span>𝕏</span><span>▶</span><span>♪</span><span>LINE</span></div><strong><Icon name="phone" size={16} /> 1129 PEA Contact Center</strong></div>
         </div>
         <div className="shell footer-bottom"><span>© สงวนลิขสิทธิ์ 2568 การไฟฟ้าส่วนภูมิภาค</span><div><a href="#">นโยบายเว็บไซต์</a><a href="#">นโยบายการรักษาความมั่นคงปลอดภัย</a><a href="#">การปฏิเสธการรับผิด</a><a href="#">นโยบายคุ้มครองข้อมูลส่วนบุคคล</a></div></div>
-      </footer>
+      </footer> */}
 
-      {showCookie && <aside className="cookie-banner"><button className="cookie-close" aria-label="ปิด" onClick={() => setShowCookie(false)}>×</button><h3>เว็บไซต์นี้ใช้คุกกี้</h3><p>เราใช้คุกกี้เพื่อเพิ่มประสิทธิภาพ และประสบการณ์ที่ดีในการใช้งานเว็บไซต์ รวมถึงเพื่อวิเคราะห์การเข้าใช้งานเว็บไซต์และทำความเข้าใจว่าผู้ใช้งานมาจากที่ใด คุณสามารถเลือกตั้งค่าความยินยอมการใช้คุกกี้ได้ โดยคลิก “ตั้งค่าคุกกี้” <a href="https://www.pea.co.th/cookie-policy">นโยบายคุกกี้</a></p><div><button>ตั้งค่าคุกกี้</button><button>ยอมรับทั้งหมด</button></div></aside>}
+      {/* {showCookie && <aside className="cookie-banner"><button className="cookie-close" aria-label="ปิด" onClick={() => setShowCookie(false)}>×</button><h3>เว็บไซต์นี้ใช้คุกกี้</h3><p>เราใช้คุกกี้เพื่อเพิ่มประสิทธิภาพ และประสบการณ์ที่ดีในการใช้งานเว็บไซต์ รวมถึงเพื่อวิเคราะห์การเข้าใช้งานเว็บไซต์และทำความเข้าใจว่าผู้ใช้งานมาจากที่ใด คุณสามารถเลือกตั้งค่าความยินยอมการใช้คุกกี้ได้ โดยคลิก “ตั้งค่าคุกกี้” <a href="https://www.pea.co.th/cookie-policy">นโยบายคุกกี้</a></p><div><button>ตั้งค่าคุกกี้</button><button>ยอมรับทั้งหมด</button></div></aside>}
       <a className="live-chat" href="https://www.pea.co.th/contact-us"><img src={`${A}/live-chat.webp`} alt="Live Chat กับ 1129" /></a> */}
     </main>
   );
